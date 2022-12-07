@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Sinclair-Seo/SPP-1001_NodeJS_WeTube#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
